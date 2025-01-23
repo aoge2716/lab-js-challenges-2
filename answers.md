@@ -4,7 +4,7 @@
 
 
 2. Challenge 2:
-  - Answer: a
+  - Answer: c
   - Explanation: a is being passed to the function and a is primitive so it the modeification to a wont change inthe global scope
 
 
